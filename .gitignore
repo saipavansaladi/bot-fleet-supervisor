@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary flag files
+KILL_SWITCH
+TEST_KILL_SWITCH
+*.flag
+
+# Logs
+*.log
+
+# Environment & IDE
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

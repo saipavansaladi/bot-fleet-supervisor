@@ -1,0 +1,5 @@
+# Bot Fleet Supervisor relies 100% on the Python Standard Library.
+# Zero external packages are strictly required.
+
+# Optional: For developer test runner convenience
+pytest>=7.0.0
