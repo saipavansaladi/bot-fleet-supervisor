@@ -186,3 +186,4 @@ class BaseBot(ABC):
     def on_stop(self) -> None:
         """Hook called when bot is stopped or halted."""
         pass
+

@@ -96,3 +96,4 @@ class DummySchedulerBot(BaseBot):
         """Intentionally crashes the bot into an ERROR state."""
         logger.warning(f"[{self.bot_id}] FAULT INJECTED: Simulating unhandled exception...")
         raise RuntimeError("Injected fault: Simulated process failure!")
+

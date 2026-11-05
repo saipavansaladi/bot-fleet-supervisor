@@ -270,3 +270,4 @@ def start_dashboard_server(
     server_thread.start()
     logger.info(f"[Dashboard] Monitoring dashboard online at http://{host}:{port}")
     return server
+

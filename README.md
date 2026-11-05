@@ -203,3 +203,4 @@ class MyCustomStrategy(BaseBot):
 ## 7. License
 
 MIT License. Free for academic, educational, and institutional engineering purposes.
+

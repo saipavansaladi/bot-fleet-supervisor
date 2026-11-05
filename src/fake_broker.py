@@ -227,3 +227,4 @@ class FakeBroker:
                     avg_entry_price=price,
                     current_price=price,
                 )
+
